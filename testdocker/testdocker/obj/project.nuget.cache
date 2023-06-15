@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEmyZl3x+0t4ONLfC2XPX4ITzd2Tjo/inMHDPrc7vzJhPK4bCt+kcKzpDUN1lFzDxC7FXifsNUn6IDLB416dGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kerim\\source\\repos\\testdocker\\testdocker\\testdocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kerim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

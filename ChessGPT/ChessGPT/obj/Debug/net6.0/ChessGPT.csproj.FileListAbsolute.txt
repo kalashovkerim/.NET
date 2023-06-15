@@ -1,0 +1,15 @@
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\bin\Debug\net6.0\ChessGPT.exe
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\bin\Debug\net6.0\ChessGPT.deps.json
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\bin\Debug\net6.0\ChessGPT.runtimeconfig.json
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\bin\Debug\net6.0\ChessGPT.dll
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\bin\Debug\net6.0\ChessGPT.pdb
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.AssemblyInfo.cs
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.dll
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\refint\ChessGPT.dll
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.pdb
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ChessGPT.genruntimeconfig.cache
+C:\Users\kerim\source\repos\ChessGPT\ChessGPT\obj\Debug\net6.0\ref\ChessGPT.dll

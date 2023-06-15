@@ -1,0 +1,15 @@
+C:\Users\kerim\source\repos\testistoriya\testistoriya\bin\Debug\net6.0\testistoriya.exe
+C:\Users\kerim\source\repos\testistoriya\testistoriya\bin\Debug\net6.0\testistoriya.deps.json
+C:\Users\kerim\source\repos\testistoriya\testistoriya\bin\Debug\net6.0\testistoriya.runtimeconfig.json
+C:\Users\kerim\source\repos\testistoriya\testistoriya\bin\Debug\net6.0\testistoriya.dll
+C:\Users\kerim\source\repos\testistoriya\testistoriya\bin\Debug\net6.0\testistoriya.pdb
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.AssemblyInfo.cs
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.dll
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\refint\testistoriya.dll
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.pdb
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\testistoriya.genruntimeconfig.cache
+C:\Users\kerim\source\repos\testistoriya\testistoriya\obj\Debug\net6.0\ref\testistoriya.dll

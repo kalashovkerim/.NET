@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\kerim\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,19): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

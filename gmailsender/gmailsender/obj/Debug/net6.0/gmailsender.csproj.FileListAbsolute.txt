@@ -1,0 +1,15 @@
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.AssemblyInfo.cs
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\gmailsender\gmailsender\bin\Debug\net6.0\gmailsender.exe
+C:\Users\kerim\source\repos\gmailsender\gmailsender\bin\Debug\net6.0\gmailsender.deps.json
+C:\Users\kerim\source\repos\gmailsender\gmailsender\bin\Debug\net6.0\gmailsender.runtimeconfig.json
+C:\Users\kerim\source\repos\gmailsender\gmailsender\bin\Debug\net6.0\gmailsender.dll
+C:\Users\kerim\source\repos\gmailsender\gmailsender\bin\Debug\net6.0\gmailsender.pdb
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.dll
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\refint\gmailsender.dll
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.pdb
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\gmailsender.genruntimeconfig.cache
+C:\Users\kerim\source\repos\gmailsender\gmailsender\obj\Debug\net6.0\ref\gmailsender.dll

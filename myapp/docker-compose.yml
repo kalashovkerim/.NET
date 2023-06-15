@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  project1:
+    build:
+      context: ./project1
+  project2:
+    build:
+      context: ./project2
